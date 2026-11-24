@@ -1,0 +1,1 @@
+{"id":"rank-policy","refund_window_days":30,"minimum_probability_support":15,"max_rank_uncertainty":2,"proof_required":["payment","logistics_or_confirmed_duplicate"]}

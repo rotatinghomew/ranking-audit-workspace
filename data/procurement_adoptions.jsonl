@@ -1,0 +1,15 @@
+{"id":"invite0","merchant_id":"m0","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite1","merchant_id":"m1","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite2","merchant_id":"m2","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite3","merchant_id":"m3","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite4","merchant_id":"m4","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite5","merchant_id":"m5","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite6","merchant_id":"m6","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite7","merchant_id":"m7","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite8","merchant_id":"m8","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite9","merchant_id":"m9","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite10","merchant_id":"m10","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite11","merchant_id":"m11","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite12","merchant_id":"m12","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite13","merchant_id":"m13","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":"2026-05-23T00:00:00+08:00","ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
+{"id":"invite14","merchant_id":"m14","invitation_at":"2026-05-21T00:00:00+08:00","accepted_at":null,"ranking_cutoff":"2026-05-16T00:00:00+08:00","contract_valid_to":"2026-09-08"}
